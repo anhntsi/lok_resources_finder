@@ -1,4 +1,6 @@
 # LOK Resources Finder Tool
+- Free: https://lok-resources-finder.web.app/
+- Paid: https://lok-resources-finder-auto.web.app/
 
 ## What is League of Kingdoms?
 - A Blockchain MMO Strategy Game.
@@ -24,7 +26,15 @@
 
 ## Paid version?
 - The paid version will automatically collect resource data on the map and send you automatic messages about the location of the resource.
-- It's great isn't it? But it will cost. I sell the paid version for 20 USD for 1 license. 1 License can be active for 2 devices.
+- It's great isn't it? But it will cost. I sell the paid version for 10 USD for 1 license. 1 License can be active for only 1 device.
+
+## Step to buy
+- First, contact me to get trial license key. You can use it for 3 days.
+- Second, if you are happy with tool that contact me to renew license key and transfer for me 10USDT/BUSD or any stable coin.
+- I have only wallet Address: 0x222252c22C5c955c894F867E67251dB39cadD158
+
+## Demo
+- https://youtu.be/pkJu2QOLXDM
 
 ## Contact
 - Please feel free to contact me. Telegram: https://t.me/anhntsi
