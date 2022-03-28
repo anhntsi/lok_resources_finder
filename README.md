@@ -33,6 +33,12 @@
 - Second, if you are happy with tool that contact me to renew license key and transfer for me 10USDT/BUSD or any stable coin.
 - I have only wallet Address: 0x222252c22C5c955c894F867E67251dB39cadD158
 
+## How to use tool
+- First, using free tool to location that near more resources you want.
+- Second, enter required fields that tool scan map to get location.
+- Third, tool send locations to you: https://t.me/LOKResourcesFinderBot
+- Four, open LOK app to send trop to mine.
+
 ## Demo
 - https://youtu.be/pkJu2QOLXDM
 
