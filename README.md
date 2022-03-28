@@ -36,7 +36,7 @@
 ## How to use tool
 - First, using free tool to location that near more resources you want.
 - Second, open paid tool and enter required fields that tool scan map to get location.
-- **Note: Alway open tool that you want to receive notification.
+- #### Note: Alway open tool.
 - Third, tool send locations to you: https://t.me/LOKResourcesFinderBot
 - Four, open LOK app and enter location to send trop to mine.
 
